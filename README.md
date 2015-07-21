@@ -1,2 +1,2 @@
 # RGKGroup-librarian
-Test task for RGKGroup.
+Test task for RGK Group.
