@@ -1,0 +1,21 @@
+{
+    "name": "RGK Group Librarian",
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "himiklab/yii2-colorbox-widget" : "*",
+        "nesbot/Carbon": "dev-master",
+        "oyejorge/less.php": "dev-master",
+        "yiisoft/yii2": "dev-master",
+        "yiisoft/yii2-debug": "dev-master",
+        "yiisoft/yii2-jui": "~2.0.0"
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
