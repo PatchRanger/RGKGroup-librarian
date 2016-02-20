@@ -19,5 +19,4 @@ foreach ($assetBundle->depends as $bundleName) {
 <body>
     <?= $content ?>
 </body>
-</<!DOCTYPE html>
 </html>
